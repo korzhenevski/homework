@@ -8,6 +8,3 @@ def sort_array(arr):
 
 def max_value(a, b):
     return a if a > b else b
-
-
-print(max_value(2, 6))
